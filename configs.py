@@ -30,28 +30,28 @@ Send me any file I will save it in my Database. Also works for channel. Add me t
 
 📡 **Hosted on:** [Heroku](https://heroku.com)
 
-🧑🏻‍ **Developer:** @AbirHasan2005
+🧑🏻‍ **Developer:** @The_Master_TG
 
-👨‍💻 **Editing:** @Mrk_YT
+👨‍💻 **Editing:** @The_Master_TG
 
-📺 **Support:** [YouTube Channel](https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ)
+📺 **Support:** [YouTube Channel](https://t.me/Cinema_Villa_TG)
 
-🗣️ **Any Doubt:** @Mo_Tech_Group
+🗣️ **Any Doubt:** @CM_VILLAGROUP
 
 📢 **Updates Channel:** [Discovery Projects](https://t.me/Mo_Tech_YT)
 """
 	ABOUT_DEV_TEXT = f"""
-🧑🏻‍ **Developer:** @AbirHasan2005
+🧑🏻‍ **Developer:** @The_Master_TG
 
-💻 **Developer Details:** [Clcik Here](https://github.com/MoTechYT/MT-FilesStoreBot/blob/main/README.md)
+💻 **Developer Details:** [Clcik Here](https://github.com/navaneethrkrishna007)
 
-👨‍💻 **Editing:** @Mrk_YT
+👨‍💻 **Editing:**@The_Master_TG
 
 🗣️ **Any Doubt:** @Mo_Tech_Group
 
-📺 **Support :** [YouTube Channel](https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ)
+📺 **Support :** [YouTube Channel](https://t.me/Cinema_Villa_TG)
 
-📢 **Updates Channel:** [Discovery Projects](https://t.me/Mo_Tech_YT)
+📢 **Updates Channel:** [Discovery Projects](https://t.me/Cinema_Villa_TG)
 
 Donate Now (coming soon)
 """
