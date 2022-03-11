@@ -20,18 +20,10 @@ You can deploy this bot anywhere.
 
 **[Watch Deploying Tutorial...](https://youtu.be/RPs9vz_neXg)**
 
-<details><summary>Deploy To Heroku</summary>
-<p>
-<br>
-<a href="https://heroku.com/deploy?template=https://github.com/MoTechYT/MT-FilesStoreBot/tree/main">
-  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
-</a>
+### Deployment On Heroku
+<p align="center">
+<a href="https://heroku.com/deploy?template=https://github.com/navaneethrkrishna007/MT-FilesStoreBot"><img src="https://github.com/PR0FESS0R-99/Buttons/blob/Professor-99/heroku/herokudeploy-01.svg" alt="PR0FESS0R-99" border="0" height="125" width="200" align="center" /></a>
 </p>
-</details>
-
-<details><summary>Configs</summary>
-<p>
-<pre>
 👇👇👇👇👇
 APP_ID & API_HASH :-
 
